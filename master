@@ -1,0 +1,55 @@
+*   [33mcommit 63ae93a271fea605e55c08c8097dd5f325e1ef44[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: 451d6f6 a5d793a
+[31m|[m [32m|[m Author: Thanzia <thanzia123@gmail.com>
+[31m|[m [32m|[m Date:   Mon Jun 3 19:07:05 2024 +0400
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'feature'
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit a5d793a602e25e39d551319b685ea76d223a581a[m[33m ([m[1;32mfeature[m[33m)[m
+[31m|[m [32m|[m Author: Thanzia <thanzia123@gmail.com>
+[31m|[m [32m|[m Date:   Mon Jun 3 18:57:18 2024 +0400
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     hello file modified
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 451d6f63fbfc53e17a3418367537b3d02a061f4d[m
+[32m|[m[32m/[m  Author: Thanzia <thanzia123@gmail.com>
+[32m|[m   Date:   Mon Jun 3 14:03:41 2024 +0400
+[32m|[m   
+[32m|[m       hey file modiofied
+[32m|[m   
+[32m|[m * [33mcommit 59190c3615d7a2bf30a1846cf7dbbcf5fd3b1f3a[m[33m ([m[1;35mrefs/stash[m[33m)[m
+[32m|[m[32m/[m[34m|[m Merge: 8db770b 1f936d2
+[32m|[m [34m|[m Author: Thanzia <thanzia123@gmail.com>
+[32m|[m [34m|[m Date:   Mon Jun 3 13:58:58 2024 +0400
+[32m|[m [34m|[m 
+[32m|[m [34m|[m     WIP on feature: 8db770b hey file edited
+[32m|[m [34m|[m 
+[32m|[m * [33mcommit 1f936d2597b08602e80d729d546a8904b2eb3a82[m
+[32m|[m[32m/[m  Author: Thanzia <thanzia123@gmail.com>
+[32m|[m   Date:   Mon Jun 3 13:58:58 2024 +0400
+[32m|[m   
+[32m|[m       index on feature: 8db770b hey file edited
+[32m|[m 
+* [33mcommit 8db770bce092740f5d0777ad9bb30e67ed0da5e2[m
+[34m|[m Author: Thanzia <thanzia123@gmail.com>
+[34m|[m Date:   Mon Jun 3 13:43:25 2024 +0400
+[34m|[m 
+[34m|[m     hey file edited
+[34m|[m 
+* [33mcommit 8f8d687f6cd622cb19d394ae85dd6fc05e41182b[m
+[34m|[m Author: Thanzia <thanzia123@gmail.com>
+[34m|[m Date:   Mon Jun 3 13:38:06 2024 +0400
+[34m|[m 
+[34m|[m     second file added
+[34m|[m 
+* [33mcommit b7426c0d1e4ef547bbbb992da88353ace530a35a[m
+[34m|[m Author: Thanzia <thanzia123@gmail.com>
+[34m|[m Date:   Mon Jun 3 13:29:18 2024 +0400
+[34m|[m 
+[34m|[m     added some message
+[34m|[m 
+* [33mcommit 4b62ce8b4da5a63f0d9db5693f8595223e27efe6[m
+  Author: Thanzia <thanzia123@gmail.com>
+  Date:   Mon Jun 3 13:20:56 2024 +0400
+  
+      initial commit
